@@ -1,4 +1,4 @@
-#Video Tagger.py
+#Readme
 A script for tagging videos encoded using Handbrake. After Handbrake encodes video files, the creation date of the encoded file is no longer the date of filming. This script corrects this.
 
 ##Instructions
